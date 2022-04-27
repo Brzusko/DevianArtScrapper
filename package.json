@@ -1,0 +1,15 @@
+{
+  "name": "devianartscrapper",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wojtek Brzuszkiewicz",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "puppeteer": "^13.6.0"
+  }
+}
